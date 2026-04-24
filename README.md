@@ -34,9 +34,16 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=thesmithmode&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=fff">
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=thesmithmode&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=fff" />
+    </td>
+    <td valign="top">
+      <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thesmithmode&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=fff&layout=compact&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 ###
 
