@@ -3,6 +3,14 @@
 ###
 
 <p align="center">
+  <a href="https://t.me/HR_29472_bot">
+    <img src="https://img.shields.io/badge/Telegram-HR__29472__bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+###
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,spring,maven,docker&theme=dark" />
   </a>
